@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TMDB</string>
+
+    <string name="warning">Warning</string>
+    <string name="internet_error">You don\'t have internet connection.</string>
+    <string name="btn_ok">Okay</string>
+
+    <string name="transition_profile">transition_profile</string>
+    <string name="releasing_year_txt">Releasing Year :</string>
+    <string name="overview_txt">Overview</string>
+    <string name="releasing_date_txt">Release Date :</string>
+    <string name="vote_txt">Vote Count :</string>
+    <string name="revenue_txt">Revenue :</string>
+    <string name="duration_txt">Run Time :</string>
+    <string name="release_date_txt">Release Date :</string>
+    <string name="null_release_date_txt">Release Date for this movie is not available in Api Response</string>
+    <string name="null_revenue_txt">Revenue Information for this movie is not available in Api Response</string>
+
+    <string name="language_txt">Language :</string>
+    <string name="null_language_txt">Language for this movie is not available in Api Response</string>
+
+    <string name="popularity_txt">Popularity :</string>
+    <string name="null_popularity_txt">Popularity for this movie is not available in Api Response</string>
+</resources>
